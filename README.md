@@ -5,13 +5,16 @@ Travel Cancun
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  Travel to Cancun 
-    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <style>
+        <font-family:cursive;>
+        <p> Visiting Cancun is one of the best experiences of your life! </p>
+    </style>
     <header>
         <h1>   Destinations </h1>
         <nav>
+            <
             <ul>
                 <li>    Cichen Itza </li>
                 <li>Cenotes</li>
