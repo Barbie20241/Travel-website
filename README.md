@@ -37,7 +37,7 @@
   <li>  Riviera Maya: Tulum Ruins & 2 Cenotes Half-Day Tour
    </li>
 </body>
-<body>  We hope this information will help you on your next trip to Yucatan!  </body>
+<h1>  We hope this information will help you on your next trip to Yucatan!     </h1>
         
 
 
