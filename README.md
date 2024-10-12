@@ -8,8 +8,8 @@ Travel Cancun
 </head>
 <body>
     <style>
-        <font-family:cursive;>
-        <p> Visiting Cancun is one of the best experiences of your life! </p>
+        <   font-family :cursive;>
+        <p class=" font-family  > Visiting Cancun is one of the best experiences of your life! </p>
     </style>
     <header>
         <h1>   Destinations </h1>
