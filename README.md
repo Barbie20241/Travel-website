@@ -20,9 +20,9 @@
   What top attractions are a must-see in Yucatan?  
 </h2>
 <p>
-<li> >Chichen Itza  </li>
+<li> Chichen Itza  </li>
 <li>  El Castillo, Chichen Itza  </li>
-<li>>  The Snail </li>
+<li> The Snail </li>
 <li> The Temple of the Warriors   </li>
     
 </p>
