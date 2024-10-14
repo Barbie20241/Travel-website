@@ -32,7 +32,7 @@
 <li>   Riviera Maya/Cancun: Excursion  </li>
 <li> Chichen Itza, Cenote and Valladolid
   </li>
-  <li>  Valladolid, tequila and food  </li>
+  <li> Valladolid, tequila and food  </li>
   <li>   Cancun: Chichen Itza, Cenote Ik Kil & Valladolid Day Trip </li>
   <li>  Riviera Maya: Tulum Ruins & 2 Cenotes Half-Day Tour
    </li>
